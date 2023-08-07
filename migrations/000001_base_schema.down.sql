@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS countries;
+
+DROP TABLE IF EXISTS players;
+
+DROP TABLE IF EXISTS umpires;
+
+DROP TABLE IF EXISTS "sets";
+
+DROP TABLE IF EXISTS statuses;
+
+DROP TABLE IF EXISTS match_rounds;
+
+DROP TABLE IF EXISTS match_type;
+
+DROP TABLE IF EXISTS matches;
