@@ -11,8 +11,8 @@ pub struct DisplayConnectQuery {
 #[derive(Clone, Debug, Deserialize, Serialize, Default)]
 pub struct TeamInfo {
     pub name: Option<String>,
-    pub country: String,
-    pub flag_url: String,
+    pub country: Option<String>,
+    pub flag_url: Option<String>,
     pub member_one: Option<String>,
     pub member_two: Option<String>,
 }
