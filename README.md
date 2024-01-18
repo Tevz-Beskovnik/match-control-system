@@ -1,1 +1,1 @@
-# THIS PROJECT IS NOW PRIVATE (https://matchscore.si)[Details about project on here soon]
+# THIS PROJECT IS NOW PRIVATE [Details about project on here soon](https://matchscore.si)
